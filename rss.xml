@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[modelinvestor]]></title>
         <description><![CDATA[modelinvestor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modelinvestor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 22:23:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 22:25:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modelinvestor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Equity Outlook</p>]]></description>
-            <link>undefinedequity-outlook/index.html</link>
+            <link>https://thegrid.ai/modelinvestor/equity-outlook/index.html</link>
             <guid isPermaLink="false">a538c5ad-5e7c-4a33-8364-0527bc1faadd</guid>
-            <pubDate>Sat, 28 May 2016 22:23:09 GMT</pubDate>
+            <pubDate>Sat, 28 May 2016 22:25:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
